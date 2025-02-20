@@ -51,3 +51,7 @@ cd modules/pointops
 python3 setup.py install
 cd -
 ```
+
+## 2. Datasets
+
+See ScanObjectNN and ModelNet40 in [DATASET.md](./DATASET.md) for details.
